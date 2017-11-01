@@ -1,6 +1,6 @@
 class treenode:
-    def __init__(self):
-        self.point=[]
+    def __init__(self):      #initialize the tree node              
+        self.point=[]                           
         self.left=None
         self.right=None
         self.parent=None
